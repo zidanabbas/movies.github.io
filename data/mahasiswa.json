@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "1",
+        "nama" : "Zidane Abbas",
+        "jurusan" : "Teknik Informatika",
+        "alamat" : "Tangerang Selatan",
+        "jenis kelamin" : "Laki-laki"
+    },
+    {
+        "id" : "2",
+        "nama" : "Dian Wireksi",
+        "jurusan" : "Manajemen",
+        "alamat" : "Jakarta Selatan",
+        "jenis kelamin" : "Perempuan"
+    },
+    {
+        "id" : "3",
+        "nama" : "Fauzi Magista",
+        "jurusasn" : "Teknik Informatika",
+        "alamat" : "Tangerang",
+        "jenis kelamin" : "Laki-laki"
+    },
+    {
+        "id" : "4",
+        "nama" : "Anggi Satria",
+        "jurusan" : "Teknik Informatika",
+        "alamat" : "Jakarta Selatan",
+        "jenis kelamin" : "Laki-laki"
+    },
+    {
+        "id" : "5",
+        "nama" : "Hadidl Wiranda",
+        "jurusan" : "Teknik Informatika",
+        "alamat" : "Jakarta Selatan",
+        "jenis kelamin" : "Laki-laki"
+    },
+    {
+        "id" : "6",
+        "nama" : "Reza",
+        "jurusan" : "Teknik Informatika",
+        "alamat" : "Bogor",
+        "jenis kelamin" : "Perempuan"
+    }
+]
